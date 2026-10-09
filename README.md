@@ -12,6 +12,12 @@
 
 ## Overview
 
+> **Repository status:** this checkout currently contains the frontend project
+> documentation only. The actively implemented Next.js application is
+> maintained in the companion `coredevdave-cmd/stellar-scan-web` repository.
+> Keep screenshots, routes, and deployment claims synchronized with that
+> implementation before publishing a release from this repository.
+
 `stellar-scan-web` is the user-facing explorer for the Stellar Scan platform. It allows developers, auditors, and users to:
 
 - **Browse** all indexed Soroban contracts by network, deployer, tag, or function signature
